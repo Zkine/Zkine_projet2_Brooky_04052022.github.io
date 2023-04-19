@@ -1,0 +1,19 @@
+{
+
+  "name": "mon-projet",
+ 
+  "scripts": {
+ 
+    "build": "echo 'Salut'",
+ 
+    "start": "echo ‘Coucou’",
+ 
+  },
+ 
+  "version": "1.0.0",
+ 
+  "devDependencies": {},
+ 
+  "dependencies": {}
+ 
+ }
